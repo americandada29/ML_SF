@@ -1,0 +1,1 @@
+Train the model using python train.py. Should be fairly quick on a gpu. Test using test_model.py. Currently initializes spins randomly with theta=random and phi = 2*theta. Other variants can also be tried but this is what I used as a first test. 
